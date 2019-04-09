@@ -1,2 +1,2 @@
 # Conversion-Calculator
-Binary, Octal, Hexadecimal conversion calculator. Application was made for my Digital Electronics class for additional practice on the course while applying Python.
+Binary, Octal, Hexadecimal conversion calculator. Created the application for my Digital Electronics class as additional practice/study on the material.
